@@ -1,0 +1,21 @@
+DriverId,Name,CarNumber,Team,Age,Nationality,TotalPodiums,TotalPoints,TotalWorldChampions,Podiums,Points,WorldChampions
+1,Max Verstappen,1,Red Bull Racing,24,Netherlands,61,1582.5,1,Yes,Yes,Yes
+2,Daniel Ricciardo,3,McLaren,32,Asutralia,32,1282,0,Yes,Yes,No
+3,Lando Norris,4,McLaren,22,UK,5,322,0,Yes,Yes,No
+4,Sebastian Vettel,5,Aston Martin Racing,34,Germany,122,3061,4,Yes,Yes,Yes
+5,Nicholas Latifi,6,Williams,26,Canada,0,7,0,No,Yes,No
+6,Pierre Gasly,10,AlphaTauri,26,France,3,315,0,Yes,Yes,No
+7,Sergio Perez,11,Red Bull Racing,32,Mexico,16,926,0,Yes,Yes,No
+8,Fernando Alonso,14,Alphine,40,Spain,98,1982,2,Yes,Yes,Yes
+9,Charles Lecrec,16,Ferrari,24,Monaco,16,631,0,Yes,Yes,No
+10,Lance Stroll,18,Aston Martin Racing,23,Canada,3,176,0,Yes,Yes,No
+11,Kevin Magnussen,20,Haas F1 Team,29,Denmark,1,170,0,Yes,Yes,No
+12,Yuki Tsunoda,22,AlphaTauri,21,Japan,0,36,0,No,Yes,No
+13,Alex Albon,23,Williams,26,Thailand,2,198,0,Yes,Yes,No
+14,Zhou Guanyu,24,Alfa Romeo,22,China,0,1,0,No,Yes,No
+15,Esteban Ocon,31,Alphine,25,France,2,292,0,Yes,Yes,No
+16,Lewis Hamilton,44,Mercedes,37,UK,183,4193.5,7,Yes,Yes,Yes
+17,Mick Schumacher,47,Haas F1 Team,23,Germany,0,0,0,No,No,No
+18,Carlos Sainz Jr.,55,Ferrari,27,Spain,8,569.5,0,Yes,Yes,No
+19,George Russel,63,Mercedes,24,UK,2,56,0,Yes,Yes,No
+20,Valtteri Bottas,77,Alfa Romeo,32,Finland,67,1750,0,Yes,Yes,No
